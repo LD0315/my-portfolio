@@ -216,11 +216,7 @@ img{
 }
 .home__img{
   position: absolute;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 15px;
-  
+  width: 295px;
   right: 0;
   top: 7rem; 
 }
